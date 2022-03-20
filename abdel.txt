@@ -1,8 +1,4 @@
 hello github
-<<<<<<< HEAD
 coucou
-ooooo :)
-=======
 hi 
 bonjour
->>>>>>> d6c9dcf0b1c46f42cc2473a594ab85b433f55fc1
