@@ -2,4 +2,4 @@
 
 ### CODE SOUCE TO PRODUCTION
 
-![DevOps Schema](schema-instrumentation-devops.png)
+![DevOps Schema]("schema-instrumentation-devops.png")
